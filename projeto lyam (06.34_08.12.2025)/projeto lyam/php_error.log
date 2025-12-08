@@ -1,0 +1,35 @@
+[05-Dec-2025 01:30:23 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:23 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:24 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:24 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:24 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:24 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:25 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:30:25 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:31:02 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:31:02 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:31:07 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:31:07 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:34:36 America/Sao_Paulo] PHP Warning:  Undefined variable $leads_by_stage in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
+[05-Dec-2025 01:34:36 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\projeto lyam\admin\index.php:21
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\projeto lyam\admin\index.php on line 21
